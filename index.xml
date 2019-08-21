@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<items>
-    <items_info> <!-- this is opitonal -->
-      <title>[color red]Programas</title> <!-- a title is required, other elements are optional -->
+<item>
+      <title>[color red]Programas</title> 
       <thumbnail>https://recursosweb.prisaradio.com/fotos/original/010002688865.png</thumbnail>
       <fanart>https://elterrat.com/wp-content/uploads/2019/06/nadie-sabe-nada-642-1.jpg</fanart>
      	  <externallink>https://raw.githubusercontent.com/totalserver/totalserver/master/programas.xml</externallink>
-    </items_info>
+    </item>
