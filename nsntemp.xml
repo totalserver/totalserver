@@ -4,7 +4,7 @@
       <title>[color red]Temporada 1</title> <!-- a title is required, other elements are optional -->
       <thumbnail>https://recursosweb.prisaradio.com/fotos/original/010002688865.png</thumbnail>
       <fanart>https://elterrat.com/wp-content/uploads/2019/06/nadie-sabe-nada-642-1.jpg</fanart>
-     	  <externallink>https://www.youtube.com/watch?v=-la04e1zisU</externallink>
+     	  <externallink>https://raw.githubusercontent.com/totalserver/totalserver/master/nsn.xml</externallink>
     </items_info>
 	<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
